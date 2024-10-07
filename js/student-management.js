@@ -66,7 +66,7 @@ $("#saveStudent").click(function() {
     }
 
     localStorage.setItem('students', JSON.stringify(students));
-    window.location.href = 'index.html'; 
+    window.location.href = 'index3.html'; 
 });
 
 // Hàm sửa sinh viên
